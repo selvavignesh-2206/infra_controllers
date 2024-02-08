@@ -1,0 +1,27 @@
+trl_service_lift:
+  # Ads configuration
+ remoteIP: "169.254.170.73"
+ remoteNetID: "5.99.58.109.1.1"
+ localNetID: "169.254.170.100.1.1"
+ variables:
+   TransportOp_GVL.liftTask: liftTask
+   TransportOp_GVL.endLiftTask: endLiftTask
+   TransportOp_GVL.robotDestinationFloor: robotDestinationFloor
+   TransportOp_GVL.robotDestinationFloor: liftDestinationFloor
+   TransportOp_GVL.wrongDestinationFloor: wrongDestinationFloor
+   TransportOp_GVL.liftCurrentFloor: liftCurrentFloor
+   TransportOp_GVL.liftDoorState: liftDoorState
+   TransportOp_GVL.liftMotionState: liftMotionState
+   TransportOp_GVL.fireAlarm: fireAlarm
+   TransportOp_GVL.emergencyPowerSupply: emergencyPowerSupply
+   TransportOp_GVL.liftOperational: liftOperational
+   TransportOp_GVL.emergencyStop: emergencyStop
+   TransportOp_GVL.turnKeyToManual: turnKeyToManual
+   TransportOp_GVL.liftDoorFaulty: liftDoorFaulty
+   TransportOp_GVL.afTimeoutError: afTimeoutError
+   TransportOp_GVL.liftMovementTimeoutError: liftMovementTimeoutError
+   TransportOp_GVL.randomCount: randomCount
+   Utils_GVL.state: state
+  ## Lift Adapter configuration
+ available_floors: ["1", "2", "3", "4", "5", "6"]
+ available_modes: [0, 1, 2, 3]

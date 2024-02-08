@@ -1,0 +1,10 @@
+[2024-02-08 17:26:52.762640] [0x00007f05ebf6f800] [info] TRLIotCoreAdapter::Initializing
+[2024-02-08 17:26:52.762866] [0x00007f05ebf6f800] [info] trl_lvl_2_door| TRLDoorInterface::Initialize Trying to connect to the MODBUS.
+[2024-02-08 17:26:55.819237] [0x00007f05ebf6f800] [error] trl_lvl_2_door| TRLDoorInterface::Initialize Cant connect to MODUBUS. Terminating..
+[2024-02-08 17:26:55.819396] [0x00007f05ebf6f800] [info] trl_lvl_3_door| TRLDoorInterface::Initialize Trying to connect to the MODBUS.
+[2024-02-08 17:26:58.891145] [0x00007f05ebf6f800] [error] trl_lvl_3_door| TRLDoorInterface::Initialize Cant connect to MODUBUS. Terminating..
+[2024-02-08 17:26:58.891986] [0x00007f05ebf6f800] [info] TRLLiftInterface::Initialize initializing
+[2024-02-08 17:26:58.892145] [0x00007f05ebf6f800] [info] TRLLiftInterface::initialize Init ADS Route
+[2024-02-08 17:27:08.103297] [0x00007f05ebf6f800] [error] TRLLiftInterface::initialize ADS route init failed.Ads operation failed with error code 6.
+[2024-02-08 17:27:08.103440] [0x00007f05ebf6f800] [info] TRLIotCoreAdapter::Yaml Loaded
+[2024-02-08 17:27:08.103504] [0x00007f05ebf6f800] [fatal] aws-c-common: AWS_ERROR_FILE_INVALID_PATH, Invalid file path.

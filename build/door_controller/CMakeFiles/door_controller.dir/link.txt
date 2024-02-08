@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdoor_controller.a  CMakeFiles/door_controller.dir/src/TRLDoorInterface.cpp.o
+/usr/bin/ranlib libdoor_controller.a

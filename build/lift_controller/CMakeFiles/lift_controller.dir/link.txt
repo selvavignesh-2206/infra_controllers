@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblift_controller.a  CMakeFiles/lift_controller.dir/src/AdsInterface.cpp.o CMakeFiles/lift_controller.dir/src/TRLLiftInterface.cpp.o
+/usr/bin/ranlib liblift_controller.a

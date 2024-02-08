@@ -1,0 +1,3 @@
+[2022-11-11 13:57:22.814502] [0x00007f26edda0800] [info] TRLIotCoreAdapter::Initializing
+[2022-11-11 13:57:22.814740] [0x00007f26edda0800] [error] TRLIotCoreAdapter::initialize failed. bad file
+[2022-11-11 13:57:22.814779] [0x00007f26edda0800] [fatal] main TRLIotCoreAdapter initialize failed.

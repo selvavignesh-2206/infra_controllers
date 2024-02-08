@@ -1,0 +1,25 @@
+trl_lvl_2_door:
+  modbusIP: "169.254.170.20"
+  modbusPort: 502
+  slaveID: 1
+  retries: 1
+trl_lvl_3_door:
+  modbusIP: "169.254.170.21"
+  modbusPort: 502
+  slaveID: 1
+  retries: 1
+#trl_lvl_4_door:
+#  modbusIP: "10.0.0.1"
+#  modbusPort: 502
+#  slaveID: 1
+#  retries: 1
+#trl_lvl_5_door:
+#  modbusIP: "10.0.0.1"
+#  modbusPort: 502
+#  slaveID: 1
+#  retries: 1
+#trl_lvl_6_door:
+#  modbusIP: "10.0.0.1"
+#  modbusPort: 502
+#  slaveID: 1
+#  retries: 1
